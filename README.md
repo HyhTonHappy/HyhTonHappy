@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJ3Njl2OTIxYTZ2bDR5NXJreDZkZTZrOGE4anNucHFpbmwyMzVlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/85TW2mdQEMviblrZts/giphy.gif" width="200" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJ3Njl2OTIxYTZ2bDR5NXJreDZkZTZrOGE4anNucHFpbmwyMzVlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/85TW2mdQEMviblrZts/giphy.gif" width="800" />
 </div
 
 # Hi, I'm Huỳnh Tấn Phúc (Happy Ultra Ego)
